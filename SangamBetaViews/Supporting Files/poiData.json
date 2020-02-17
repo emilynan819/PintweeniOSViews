@@ -1,0 +1,464 @@
+[
+    {
+        "country": "Vietnam",
+        "city": "Danang",
+        "category": "Activity",
+        "placeName": "My Khe Beach",
+        "id": 1,
+        "address": "My Khe Beach, Da Nang",
+        "coordinates": {
+            "longitude": 107.595628,
+            "latitude": 16.469667
+        },
+        "description": "My Khe Beach is located on the eastern outskirts of Da Nang. With soft, fine sands and clear ocean water, it is a very desirable location to visit. Go early in the morning if you want to watch the beautiful sunrise over the sea. Aside from walking on the beach, you can enjoy the sea view or rent a lounge chair for sunbathing. There are also many water sports for you to take advantage of, including jetskis, banana boats and parasailing.",
+        "phoneNumber": "86-1111-1111",
+        "isFeatured": false,
+        "isFavorite": true
+    },
+    
+    {
+        "country": "Vietnam",
+        "city": "Danang",
+        "category": "SeeSight",
+        "placeName": "Ba Na Hills",
+        "id": 2,
+        "address": "TL 602 Hòa Ninh Hòa Vang, Da Nang",
+        "coordinates": {
+            "longitude": 107.521902,
+            "latitude": 16.371316
+        },
+        "description": "Located 40 kilometers west of Da Nang, Ba Na Hills is now an integrated entertainment site with premium hotels, aerial cableways and theme parks. Ba Na Hills cableway is very distinctive, overlooking the primeval forest from a high altitude, as if you have been transported to a fairyland. Atop the mountain, visitors will find the Linh Ung Bai But Temple. Within the temple, there is a huge alabaster Goddess of Mercy who guards and protects the",
+        "phoneNumber": "86-1111-1111",
+        "isFeatured": false,
+        "isFavorite": true
+    },
+    
+    {
+        "country": "Vietnam",
+        "city": "Danang",
+        "category": "SeeSight",
+        "placeName": "Danang Cathedral",
+        "id": 3,
+        "address": "156 Tran Phu Street, Da Nang, Vietnam",
+        "coordinates": {
+            "longitude": 108.046587,
+            "latitude": 16.094109
+        },
+        "description": "Da Nang Cathedral is a Catholic Church built during Vietnam's French Colonial Period. This occidental church's tall clock tower is a local landmark. The whole church is a pale pink color. It's very beautiful with large stained-glass windows in the medieval style. Whenever Mass is being celebrated, the church's atmosphere is quite lively. You can go take a look for yourself.",
+        "phoneNumber": "86-1111-1111",
+        "isFeatured": false,
+        "isFavorite": true
+    },
+    
+    {
+        "country": "Vietnam",
+        "city": "Danang",
+        "category": "SeeSight",
+        "placeName": "Dragon Bridge",
+        "id": 4,
+        "address": "An Hải Tây, Da Nang, Vietnam",
+        "coordinates": {
+            "longitude": 108.236189,
+            "latitude": 16.070434
+        },
+        "description": "The Long Bridge spans over the Han River. This bridge is magnificent and has become one of the landmarks of Da Nang. Especially at night, the bridge is transformed with various colors under the lighting, which is very beautiful. Every weekend night, the mouth of the faucet will also emit a fire tongue and white water mist, which will attract many citizens and tourists to stop and watch.",
+        "phoneNumber": "86-1111-1111",
+        "isFeatured": false,
+        "isFavorite": true
+    },
+    
+    {
+        "country": "Vietnam",
+        "city": "Hue",
+        "category": "UNESCO",
+        "placeName": "Imperial City",
+        "id": 5,
+        "address": "Thuan Thanh, Hue, Vietnam",
+        "coordinates": {
+            "longitude": 108.329,
+            "latitude":  15.7768
+        },
+        "description": "The historical monuments of the city have been inscribed on the UNESCO World Heritage List.The former imperial seat of government and Hue's prime attraction, this is a great sprawling complex of temples, pavilions, moats, walls, gates, shops, museums and galleries, featuring art and costumes from various periods of Vietnamese history. Thanks to its size, it is also delightfully peaceful, a rare commodity in Vietnam. The citadel was badly knocked about during fighting between the French and the Viet Minh in 1947, and again in 1968 during the Tet Offensive, when it was shelled by the Viet Cong and then bombed by the Americans.",
+        "phoneNumber": "86-1111-1111",
+        "isFeatured": false,
+        "isFavorite": true
+    },
+    
+    {
+        "country": "Vietnam",
+        "city": "Hue",
+        "category": "SeeSight",
+        "placeName": "Tomb of Khai Dinh",
+        "id": 6,
+        "address": "Kim Long Road, Hue, Vietnam",
+        "coordinates": {
+            "longitude": 108.341,
+            "latitude": 15.9138
+        },
+        "description": "Located 15 kilometers south of Shunhua City, on the edge of Xiangjiang River, you can find a motorcycle from the city for about $4-5 to go back and forth, or you can rent a boat to Xiangjiang River. It is suggested to visit the Ming Ming imperial mausoleum and Side imperial mausoleum together. At the entrance, there is a row of magnificent Dragon-Carving staircases leading directly to the front yard of the imperial mausoleum.",
+        "phoneNumber": "86-1111-1111",
+        "isFeatured": false,
+        "isFavorite": true
+    },
+    
+    {
+        "country": "Vietnam",
+        "city": "Hue",
+        "category": "SeeSight",
+        "placeName": "Thien Mu Pagoda",
+        "id": 7,
+        "address": "Kim Long Road, Hue, Vietnam",
+        "coordinates": {
+            "longitude": 107.558765,
+            "latitude": 16.420641
+        },
+        "description": "1. Complex of Hue Monuments is a world cultural heritage; 2. Although the temple has a history of 400 years, there are almost no real ancient buildings left behind, most of which have been renovated and rebuilt many times in modern times; 3. Although it is a little smaller than Chinese temples, it does not prevent her from being in the minds of the Vietnamese people. Lofty status; 4. The location is about 8 kilometers away from the downtown area, free of charge.",
+        "phoneNumber": "86-1111-1111",
+        "isFeatured": false,
+        "isFavorite": true
+    },
+    
+    {
+        "country": "Vietnam",
+        "city": "Hoian",
+        "category": "UNESCO",
+        "placeName": "Old Town",
+        "id": 8,
+        "address": "Hoi An, Quang Nam",
+        "coordinates": {
+            "longitude": 108.141388,
+            "latitude": 16.0822715
+        },
+        "description": "The Old Town, with its historical architecture and very walkable streets filled with shops and restaurants, is arguably at its best at night, when the activity along the river front is lit by the soft light of silk lanterns. Entry to Old Town is free, however entry to all historical sites is handled via a coupon system, where 120,000 đong (2016) gets a ticket that can be used to enter any five attractions. Tickets are sold at various entry points into the Old Town, including Hai Ba Trung St, and also at some of the attractions, including the Cantonese Assembly Hall. ",
+        "phoneNumber": "86-1111-1111",
+        "isFeatured": false,
+        "isFavorite": true
+    },
+    
+    
+    {
+        "country": "Vietnam",
+        "city": "Hoian",
+        "category": "Activity",
+        "placeName": "Anbang Beach",
+        "id": 9,
+        "address": "Hoi An, Quang Nam",
+        "coordinates": {
+            "longitude": 108.335,
+            "latitude": 15.8453
+        },
+        "description": "Anbang Beach is located on the eastern outskirts of Da Nang. With soft, fine sands and clear ocean water, it is a very desirable location to visit. Go early in the morning if you want to watch the beautiful sunrise over the sea. Aside from walking on the beach, you can enjoy the sea view or rent a lounge chair for sunbathing. There are also many water sports for you to take advantage of, including jetskis, banana boats and parasailing.",
+        "phoneNumber": "86-1111-1111",
+        "isFeatured": false,
+        "isFavorite": true
+    },
+    
+    {
+        "country": "Vietnam",
+        "city": "Hoian",
+        "category": "SeeSight",
+        "placeName": "Japanes Bridge",
+        "id": 10,
+        "address": "Nguyen Thi Minh Khai, Cam Pho, Hoi An",
+        "coordinates": {
+            "longitude": 108.238194,
+            "latitude": 15.96378575
+        },
+        "description": "Anbang Beach is located on the eastern outskirts of Da Nang. With soft, fine sands and clear ocean water, it is a very desirable location to visit. Go early in the morning if you want to watch the beautiful sunrise over the sea. Aside from walking on the beach, you can enjoy the sea view or rent a lounge chair for sunbathing. There are also many water sports for you to take advantage of, including jetskis, banana boats and parasailing.",
+        "phoneNumber": "86-1111-1111",
+        "isFeatured": false,
+        "isFavorite": true
+    },
+    
+    {
+         "country": "Germany",
+         "city": "Berlin",
+         "category": "SeeSight",
+         "placeName": "Brandenburg Gate",
+         "id": 11,
+         "address": "Pariser Platz, 10117 Berlin",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "description": "Brandenburg Gate is a neoclassical sandstone building, designed by Longhans, which imitates the style of the colonnade of the Acropolis in Athens, Greece. The Brandenburg Gate is 26 metres high, 65.5 metres wide and 11 metres deep. It is supported by 12 Dorick pillars 15 metres high and 1.75 metres in diameter at the bottom.",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": false,
+         "isFavorite": true
+     },
+    
+    {
+         "country": "Germany",
+         "city": "Berlin",
+         "category": "UNESCO",
+         "placeName": "Museum Island",
+         "id": 12,
+         "address": "Museumsinsel (Bodestraße) 10178 Berlin",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "description": "Museum Island is located in the heart of Berlin, on the north side of the island of Spree. The island's buildings are a unique cultural heritage. There are many German museums, headed by the Pergamon Museum and five museums on the island. Different, but harmonious and unified, the Spree River flows from both sides, making their momentum more magnificent.",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": false,
+         "isFavorite": true
+     },
+    
+    {
+         "country": "Germany",
+         "city": "Berlin",
+         "category": "Exhibit & Shows",
+         "placeName": "Berlin Wall Memorial",
+         "id": 13,
+         "address": "Bernauer Strasse 111, 13355 Berlin",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "description": "The Berlin Wall Ruins Memorial Park used to be the boundary line between the East and West. There is a section of the Berlin Wall with barriers and guard posts that allow visitors to touch the historical objects. It used to be a no-man's land and a place of death. Nowadays, the lawn is paved on the ground, and the cemented Berlin wall and the rusted metal frame show a peaceful and solemn atmosphere against the blue sky and white clouds.",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": false,
+         "isFavorite": true
+     },
+    
+    {
+         "country": "Germany",
+         "city": "Berlin",
+         "category": "Restaurant & Bar",
+         "placeName": "Restaurant Berlinchen",
+         "id": 14,
+         "address": "Bayreuther Str. 44 | Schoneberg, 10787 Berlin, Germany",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "description": "Very cool place and I want to visit it again! Thanks a lot for unforgettable experience. If I will come back to Berlin I will visit this pub for sure again",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": false,
+         "isFavorite": true
+     },
+    
+    {
+         "country": "Germany",
+         "city": "Berlin",
+         "category": "SeeSight",
+         "placeName": "Berlin Cathedral",
+         "id": 15,
+         "address": "Am Lustgarten, 10178 Berlin",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "description": "Located on the eastern side of the Museum Island in the city of Berlin, the Berlin Cathedral is backed by the River Spree, which was once the church of the Hohenzollern royal family, whose family members were buried in the basement. The Berlin Cathedral was destroyed in World War II, and the repair work continues to this day, but it is still Berlin's eye-catching landmark, known as 'the Museum Island entrance'",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": false,
+         "isFavorite": true
+     },
+    
+    {
+         "country": "Finland",
+         "city": "Amsterdam",
+         "category": "Exhibit & Shows",
+         "placeName": "Amsterdam National Museum Rijksmuseum",
+         "id": 16,
+         "address": "Museumstraat 1,1071 XX Amsterdam,The Netherlands",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "description": "National museum dedicated to arts and history in Amsterdam.",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": false,
+         "isFavorite": true
+     },
+    
+    {
+         "country": "Finland",
+         "city": "Amsterdam",
+         "category": "SeeSight",
+         "placeName": "Royal Palace Amsterdam",
+         "id": 17,
+         "address": "1001 AM Amsterdam,The Netherlands",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "description": "The Royal Palace of Amsterdam is one of the four royal palaces in the Netherlands. It was originally a town hall and court. As the political and economic center of the city, it is also an important part of the square and the artist's favorite theme. The highlights here are its architecture and the magnificent decoration in the palace. All places in the citizen's hall are covered with marble.",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": false,
+         "isFavorite": true
+     },
+    
+    {
+         "country": "Finland",
+         "city": "Amsterdam",
+         "category": "Exhibit & Shows",
+         "placeName": "Van Gogh Museum",
+         "id": 18,
+         "address": "Museumplein 6, 1071 DJ Amsterdam",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "description": "The Van Gogh Museum is located near the Museum Square in Amsterdam. It houses the works of the Dutch painter Van Gogh and related artifacts (as much as one quarter of Van Gogh's total works). The museum contains more than 200 classic Van Gogh oil paintings, 580 sketches, 4 sketchbooks and about 750 letters written by Van Gogh to his brother, Theo. The museum has 4 floors which display his works according to chronological order.",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": false,
+         "isFavorite": true
+     },
+    
+    {
+         "country": "Finland",
+         "city": "Amsterdam",
+         "category": "Activity",
+         "placeName": "Canal Cruises",
+         "id": 19,
+         "address": "Prins Hendrikkade 33A, 1012 TM Amsterdam",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "description": "It is the best way Amsterdam which itself is known as a canal city. You will see so many beautiful Dutch-style buildings along the way, as well as some big enough boats which are used for some people to live in. The cruise will take an hour, and you will go through the big and also some canals.",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": false,
+         "isFavorite": true
+     },
+    
+    {
+         "country": "Finland",
+         "city": "Amsterdam",
+         "category": "Restaurant & Bar",
+         "placeName": "Rijks",
+         "id": 20,
+         "address": "Museumstraat 2, 1071 XX Amsterdam",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "description": "Reception made sure to ask us if we were prepared for 'fine dining prices' which wasn't the warmest welcome. Food was as expected: small portions but very well done. Good cocktails. Beautiful place",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": false,
+         "isFavorite": true
+     },
+    
+    {
+         "country": "China",
+         "city": "Shanghai",
+         "category": "SeeSight",
+         "placeName": "Waitan",
+         "id": 21,
+         "address": "Zhongshan East 1st Road,Shanghai,China",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "description": "The Bund (外滩Wàitān) is Shanghai's stately street of old colonial-era buildings and the first port of call for many visitors. The Bund was the financial center of the Far East until the 1930s. It has been referred to as 'a museum of buildings', as many different styles of European buildings can be found here.",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": true,
+         "isFavorite": true
+     },
+    
+    {
+         "country": "China",
+         "city": "Shanghai",
+         "category": "Activity",
+         "placeName": "Disneyland",
+         "id": 22,
+         "address": "Chuansha New Town, Pudong New Area,Shanghai,China",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "description": "As the first Disney resort in mainland China, Shanghai Disney Resort is a world-class family entertainment destination. It features Shanghai Disneyland Park, an entertainment district, two themed hotels, recreational facilities, a lake, and associated transportation hubs. One unique aspect about Shanghai Disney is the way the park incorporates Chinese tastes into its design. With plenty to do and fun for people of all ages, the Shanghai Disney Resort is...",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": false,
+         "isFavorite": true
+     },
+    
+    {
+         "country": "China",
+         "city": "Shanghai",
+         "category": "SeeSight",
+         "placeName": "Shanghai Tower",
+         "id": 23,
+         "address": "No479 Lujiazui Ring Road, Pudong New Area,Shanghai,China",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "description": "Shanghai Tower is a megatall skyscraper building in the Lujiazui area of Shanghai's Pudong District. Standing at 632 m, Shanghai Tower is currently the world's second tallest building. The tower's 118th-story observation deck offers a 360-degree panoramic viewing hall. At night, the Shanghai Tower shines bright with its striking architecture. The dominating feature on the Pudong skyline, Shanghai Tower is an impressive feat of engineering and a symbol of",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": false,
+         "isFavorite": true
+     },
+    
+    {
+         "country": "China",
+         "city": "Shanghai",
+         "category": "SeeSight",
+         "placeName": "Fengjing Ancient Town",
+         "id": 24,
+         "address": "No. 28, Lane 8588, Tingfeng Road, Fengjing Town, Jinshan District",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "imageName": "Fengjing Ancient Town_Shanghai",
+         "description": "Fengjing Ancient Town is located in the southwest corner of Shanghai. It is a classic example of a traditional, southern Chinese water town. The river running through the village acted as a natural border between the Wu and Yue states in the Spring and Autumn Period (770-476 BCE). The town spanned across the border of Wu and Yue resulting in Fengjing being hailed as the 'famous historical town of Wu and Yue.' As many as 52 bridges dot the",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": false,
+         "isFavorite": true
+     },
+    
+    {
+         "country": "China",
+         "city": "Shanghai",
+         "category": "Shopping",
+         "placeName": "Nanjing Road",
+         "id": 25,
+         "address": "Nanjing East Road, Huangpu District,Shanghai 200000,China",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "imageName": "Nanjing Road_Shanghai",
+         "description": "Nanjing Road Pedestrian Street runs roughly east-west for 1,500 m from People’s Square to the Bund. Known to some as China’s Fifth Avenue, it is a premiere shopping destination with many well-known brands filling the retail space. After dark the street glows with light from all the signage and store displays. On most nights, the area is packed with a mixture of locals and tourists hunting for bargains or trying to find a table at one of the many",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": false,
+         "isFavorite": true
+     },
+    
+    {
+         "country": "China",
+         "city": "Shanghai",
+         "category": "Exhibit & Shows",
+         "placeName": "Shanghai Development Exhibition Hall",
+         "id": 26,
+         "address": "No.1 Century Avenue Pudong New Area, Shanghai 200122, China",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "description": "Located on the southern side of People’s Square, the Shanghai Museum is a large and comprehensive museum dedicated to showcasing Chinese art and history. Originally founded in 1952, the museum's collection has expanded over the years as the institution played an important role in saving historic artifacts during tumultuous periods in Chinese history such as the Great Leap Forward and the Cultural Revolution. The Shanghai Museum's current",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": false,
+         "isFavorite": true
+     },
+    
+    {
+         "country": "China",
+         "city": "Shanghai",
+         "category": "Restaurant & Bar",
+         "placeName": "Flair Rooftop",
+         "id": 27,
+         "address": "58F, The Ritz Carlton Shanghai, Pudong, No 8 Century Avenue, Lujiazui, Pudong,Shanghai 200120,China",
+         "coordinates": {
+             "longitude": -116.166868,
+             "latitude": 34.011286
+         },
+         "description": "To celebrate the birthday in advance, the environment is very like, if you are a tenant or a Ritz Carlton hotel VIP member, you can direct a predetermined position? If it is not, please half past five mountain scene, afternoon tea 56 first-layer line up with the trumpets over there, the first generally can sit position. Standing above the crowd, the evening of May or a little cold, you can add a coat against the cold. Trumpets will ask next meal or a drink, then the waiter will Hostess, service charges 15%",
+         "phoneNumber": "86-1111-1111",
+         "isFeatured": true,
+         "isFavorite": true
+     }
+    
+]

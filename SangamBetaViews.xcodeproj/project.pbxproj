@@ -26,6 +26,7 @@
 		D38689F123FAA15D00E6A770 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38689EF23FAA15D00E6A770 /* ContentView.swift */; };
 		D38689F223FAA15D00E6A770 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38689F023FAA15D00E6A770 /* MapView.swift */; };
 		D38689F423FAA1A600E6A770 /* CommentDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38689F323FAA1A600E6A770 /* CommentDetails.swift */; };
+		D38689F623FAA3F500E6A770 /* SlideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D38689F523FAA3F500E6A770 /* SlideView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		D38689EF23FAA15D00E6A770 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D38689F023FAA15D00E6A770 /* MapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		D38689F323FAA1A600E6A770 /* CommentDetails.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CommentDetails.swift; sourceTree = "<group>"; };
+		D38689F523FAA3F500E6A770 /* SlideView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SlideView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 		D38689E823FA9FEB00E6A770 /* Route Planning */ = {
 			isa = PBXGroup;
 			children = (
+				D38689F523FAA3F500E6A770 /* SlideView.swift */,
 				D38689F323FAA1A600E6A770 /* CommentDetails.swift */,
 				D38689EF23FAA15D00E6A770 /* ContentView.swift */,
 				D38689F023FAA15D00E6A770 /* MapView.swift */,
@@ -216,6 +219,7 @@
 				D386898723FA531300E6A770 /* SceneDelegate.swift in Sources */,
 				D38689AD23FA617C00E6A770 /* BottomTabBar.swift in Sources */,
 				D38689A523FA58FE00E6A770 /* POIList.swift in Sources */,
+				D38689F623FAA3F500E6A770 /* SlideView.swift in Sources */,
 				D38689F423FAA1A600E6A770 /* CommentDetails.swift in Sources */,
 				D38689EC23FAA08600E6A770 /* RouteDetailSection.swift in Sources */,
 				D38689F223FAA15D00E6A770 /* MapView.swift in Sources */,

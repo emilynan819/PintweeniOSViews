@@ -20,14 +20,14 @@ struct BottomTabBar: View {
                             POIList()
                                // .offset(y: 10)
                         }
-//                        else if self.selected == 1 {
-//                             Profile()
-//                           // .offset(y: 10)
-//                        }
-//                        else if self.selected == 2 {
-//                            RouteDetail()
-//                           // .offset(y: 10)
-//                        }
+                        else if self.selected == 1 {
+                             RouteDetail()
+                           // .offset(y: 10)
+                        }
+                        else if self.selected == 2 {
+                            SlideView()
+                           // .offset(y: 10)
+                        }
 //                        else if self.selected == 3 {
 //                            SlideView()
 //                           // .offset(y: 10)
@@ -117,63 +117,63 @@ struct Bottom : View {
                 
             } //.foregroundColor(self.selected == 0 ? Color("Color") : .gray)
             
-//            Spacer(minLength: 15)
-//
-//
-//            Button(action: {
-//
-//                self.selected = 1
-//
-//            }) {
-//                if self.selected == 1 {
-//
-//                    Image(systemName:  "person.crop.circle")
-//                        .padding(18)
-//                        .font(.title)
-//                        .foregroundColor(.white)
-//                        .background(Color.green)
-//                        .clipShape(Circle())
-//                          .offset(y: -10)
-//                        .shadow(radius: 5)
-//                } else {
-//                    VStack{
-//                    Image(systemName:  "person.crop.circle")
-//                        .font(.system(size: 22))
-//                        .foregroundColor(.gray)
-//                    Text("Profile")
-//                         .font(.system(size: 10))
-//                        .foregroundColor(.gray)
-//                    }
-//                }
-//            }
+            Spacer(minLength: 15)
 
- //           Spacer(minLength: 15)
-//
-//            Button(action: {
-//
-//                self.selected = 2
-//
-//            }) {
-//                if self.selected == 2 {
-//                    Image(systemName:  "arrow.up.arrow.down")
-//                        .padding(18)
-//                        .font(.title)
-//                        .foregroundColor(.white)
-//                        .background(Color.yellow)
-//                        .clipShape(Circle())
-//                          .offset(y: -10)
-//                        .shadow(radius: 5)
-//                } else {
-//                    VStack{
-//                    Image(systemName:  "arrow.up.arrow.down")
-//                        .font(.system(size: 22))
-//                        .foregroundColor(.gray)
-//                    Text("Plan")
-//                         .font(.system(size: 10))
-//                         .foregroundColor(.gray)
-//                    }
-//                }
-//            }
+
+            Button(action: {
+
+                self.selected = 1
+
+            }) {
+                if self.selected == 1 {
+
+                    Image(systemName:  "arrow.up.arrow.down")
+                        .padding(18)
+                        .font(.title)
+                        .foregroundColor(.white)
+                        .background(Color.green)
+                        .clipShape(Circle())
+                          .offset(y: -10)
+                        .shadow(radius: 5)
+                } else {
+                    VStack{
+                    Image(systemName:  "arrow.up.arrow.down")
+                        .font(.system(size: 22))
+                        .foregroundColor(.gray)
+                    Text("Plan")
+                         .font(.system(size: 10))
+                        .foregroundColor(.gray)
+                    }
+                }
+            }
+
+            Spacer(minLength: 15)
+
+            Button(action: {
+
+                self.selected = 2
+
+            }) {
+                if self.selected == 2 {
+                    Image(systemName:  "square.stack.3d.up.fill")
+                        .padding(18)
+                        .font(.title)
+                        .foregroundColor(.white)
+                        .background(Color.yellow)
+                        .clipShape(Circle())
+                          .offset(y: -10)
+                        .shadow(radius: 5)
+                } else {
+                    VStack{
+                    Image(systemName:  "square.stack.3d.up.fill")
+                        .font(.system(size: 22))
+                        .foregroundColor(.gray)
+                    Text("Map")
+                         .font(.system(size: 10))
+                         .foregroundColor(.gray)
+                    }
+                }
+            }
 //
 //            Spacer(minLength: 15)
 //
